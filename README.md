@@ -39,6 +39,8 @@ Compositional Zero-Shot Learning (CZSL) aims to recognize unseen concepts compos
 #  Papers
 
 ### 2023
+* Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning, *arxiv2023*. [[paper]](https://arxiv.org/pdf/2303.15230.pdf)
+
 * Distilled Reverse Attention Network for Open-world Compositional Zero-Shot Learning, *arxiv2023*.[[paper]](https://arxiv.org/pdf/2303.00404.pdf)
 
 * Isolating Features of Object and Its State for Compositional Zero-Shot Learning, *TETCI2023*.[[paper]](https://ieeexplore.ieee.org/document/10015197)
