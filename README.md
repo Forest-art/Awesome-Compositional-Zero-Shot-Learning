@@ -10,9 +10,7 @@ Compositional Zero-Shot Learning (CZSL) aims to recognize unseen concepts compos
 
 
 # Datasets
-### MIT-States
-* [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298744)
-* [download](http://web.mit.edu/phillipi/Public/states_and_transformations/index.html)
+### MIT-States[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298744)[download](http://web.mit.edu/phillipi/Public/states_and_transformations/index.html)
 
 ### UT-Zappos
 * [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909426)
