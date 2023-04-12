@@ -10,28 +10,18 @@ Compositional Zero-Shot Learning (CZSL) aims to recognize unseen concepts compos
 
 
 # Datasets
-### MIT-States[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298744)[download](http://web.mit.edu/phillipi/Public/states_and_transformations/index.html)
+### MIT-States[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298744)[[download]](http://web.mit.edu/phillipi/Public/states_and_transformations/index.html)
 
-### UT-Zappos
-* [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909426)
-* [download](https://vision.cs.utexas.edu/projects/finegrained/utzap50k/)
+### UT-Zappos[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909426)[[download]](https://vision.cs.utexas.edu/projects/finegrained/utzap50k/)
 
-### C-GQA
-* [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf)
-* [download](https://github.com/ExplainableML/czsl)
+### C-GQA[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf)[[download]](https://github.com/ExplainableML/czsl)
 
 
-### AO-CLEVr
-* [paper](https://proceedings.neurips.cc/paper/2020/hash/1010cedf85f6a7e24b087e63235dc12e-Abstract.html)
-* [download](https://github.com/nv-research-israel/causal_comp)
+### AO-CLEVr[[paper]](https://proceedings.neurips.cc/paper/2020/hash/1010cedf85f6a7e24b087e63235dc12e-Abstract.html)[[download]](https://github.com/nv-research-israel/causal_comp)
 
-### VAW-CZSL
-* [paper](https://arxiv.org/pdf/2205.08536.pdf)
-* [download](https://github.com/nirat1606/OADis)
+### VAW-CZSL[[paper]](https://arxiv.org/pdf/2205.08536.pdf)[[download]](https://github.com/nirat1606/OADis)
 
-### Compositional PartNet
-* [paper](https://arxiv.org/pdf/2111.14673)
-* [download](https://github.com/ferjad/3DCZSL)
+### Compositional PartNet[[paper]](https://arxiv.org/pdf/2111.14673)[[download]](https://github.com/ferjad/3DCZSL)
 
 
 #  Papers
