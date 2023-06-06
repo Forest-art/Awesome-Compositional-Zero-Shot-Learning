@@ -27,6 +27,9 @@ Compositional Zero-Shot Learning (CZSL) aims to recognize unseen concepts compos
 #  Papers
 
 ### 2023
+* DRPT: Disentangled and Recurrent Prompt Tuning for Compositional Zero-Shot Learning, *arxiv2023*. [[paper]](https://arxiv.org/pdf/2305.01239.pdf)
+* Prompting Language-Informed Distribution for Compositional Zero-Shot Learning, *arxiv2023*. [[paper]](https://arxiv.org/pdf/2305.14428.pdf)
+* CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning, *arxiv2023*. [[paper]](https://arxiv.org/pdf/2305.16681.pdf)
 * Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning, *arxiv2023*. [[paper]](https://arxiv.org/pdf/2303.15230.pdf)
 
 * Distilled Reverse Attention Network for Open-world Compositional Zero-Shot Learning, *arxiv2023*.[[paper]](https://arxiv.org/pdf/2303.00404.pdf)
